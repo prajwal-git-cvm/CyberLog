@@ -1,0 +1,8 @@
+network,country,region,city,latitude,longitude
+8.8.8.0/24,United States,California,Mountain View,37.4056,-122.0775
+1.1.1.0/24,Australia,New South Wales,Sydney,-33.8688,151.2093
+45.67.89.0/24,Unknown,Unknown,Unknown,0,0
+103.21.58.0/24,India,Maharashtra,Mumbai,19.0760,72.8777
+192.168.1.0/24,Private Network,Local,Local Network,0,0
+10.0.0.0/8,Private Network,Local,Local Network,0,0
+172.16.0.0/12,Private Network,Local,Local Network,0,0
